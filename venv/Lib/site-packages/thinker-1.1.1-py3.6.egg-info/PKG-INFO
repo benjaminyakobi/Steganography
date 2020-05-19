@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: thinker
+Version: 1.1.1
+Summary: Rethinkdb wrapper for asyncio
+Home-page: https://github.com/mehmetkose/thinker
+Author: Mehmet Kose
+Author-email: mehmet@linux.com
+License: MIT
+Description: UNKNOWN
+Keywords: asyncio,rethinkdb,layer
+Platform: Any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Database
+Classifier: Topic :: Database :: Database Engines/Servers
+Classifier: Topic :: Utilities
